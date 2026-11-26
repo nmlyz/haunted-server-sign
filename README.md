@@ -14,6 +14,12 @@ python3 main.py
 
 It writes the line to `/output/entry.txt` (or `$MAKEFUN_OUTPUT_DIR/entry.txt`). No network access needed; the same text, byte for byte, on every run. The line is 98 characters, a single line, and ends on its reveal. The program builds the line from three clauses — the 3am typing, the reassurance it is not an intruder, the reveal — and checks the result against the entry gate (length, single line, no leading or trailing space) before writing it, then reads the file back to confirm the bytes match.
 
+## The line
+
+> If you hear typing at 3am, it is not an intruder. It is the previous on-call. He never logged out.
+
+Three turns in one breath: the noise, the reassurance, the reveal. It reads like a notice left on a door by someone who has stopped asking questions.
+
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=23ae7fx0&utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a)</sub>
